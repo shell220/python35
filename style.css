@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(182, 142, 142);
+}
+main {
+    color:rgb(175, 155, 247);
+}
+h1{
+    color: chartreuse;
+}
+a{
+    color: crimson;
+}
+b{
+    color: aqua;
+}
+p{
+    color: blue;
+}
+.fontred{
+    color: crimson;
+    font-size: 22px;
+}
+.fontwhite{
+    color: azure;
+    font-size: large;
+    flood-color: burlywood;
+}
+#fontblack{
+    color: black;
+}
